@@ -1,0 +1,4 @@
+
+0(27) : error C1068: too much data in type constructor
+0(27) : error C1035: assignment of incompatible types
+

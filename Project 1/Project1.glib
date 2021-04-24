@@ -1,0 +1,19 @@
+##OpenGL GLIB
+
+Perspective 90
+LookAt 0 0 2  0 0 0  0 1 0
+
+
+Vertex   oval.vert
+Fragment oval.frag
+Program  Oval				\
+	uAd <.01 .05 .5>  uBd <.01 .05 .5>                      \
+        uNoiseAmp <0. 0. 1.>  uNoiseFreq <0. 1. 10.>      	    \
+        uAlpha <0. 1. 1.>                                       \
+        uTol <0. 0. 1.>						                    \
+        uUseChromaDepth <false>                                 \
+        uChromaBlue <-5. -3.8  0.>                             \
+        uChromaRed  <-3. -1.1  2.>
+
+Color 1. 1. 0
+Obj ratM.obj
