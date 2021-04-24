@@ -1,7 +1,0 @@
-
-0(22) : error C1115: unable to find compatible overloaded function "pow(int)"
-0(22) : error C0000: syntax error, unexpected ')' at token ")"
-0(22) : error C7011: implicit cast from "int" to "bool"
-0(26) : error C1503: undefined variable "magST"
-0(48) : error C0000: syntax error, unexpected reserved word "else" at token "else"
-
