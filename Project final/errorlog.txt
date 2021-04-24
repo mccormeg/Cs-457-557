@@ -1,0 +1,3 @@
+
+0(72) : error C0000: syntax error, unexpected reserved word "else", expecting "::" at token "else"
+
