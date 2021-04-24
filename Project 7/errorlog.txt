@@ -1,0 +1,6 @@
+
+0(54) : error C1503: undefined variable "QuantizeVec3"
+0(56) : error C1503: undefined variable "LightPos"
+0(63) : error C1503: undefined variable "QuantizeVec3"
+0(64) : error C1503: undefined variable "LightPos"
+
